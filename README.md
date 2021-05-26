@@ -2,25 +2,20 @@
 Tell me your favorite framework you work with, but vanilla is more fun. If you find a bug, it's actually a feature.
 
 1. Countdown Timer
-- https://uidesigndaily.com/posts/sketch-countdown-timer-day-876
 - Future date
 - Timer
 
 2. Quiz app
-- https://uidesigndaily.com/posts/sketch-questionnaire-choice-submit-day-924
 - Questions from obj
 - Select answer
 - At the end, show score
 
 3. Recipe app
-- https://uidesigndaily.com/posts/sketch-recipe-app-food-mobile-day-615
-- https://themealdb.com/
 - List of recipes
 - Recipe info on click
 - Favorite recipe with localStorage
 
 4. Notes app
-- https://uidesigndaily.com/posts/photoshop-notes-widget-day-65
 - Marked lib
 - CRUD note
 - Markdown
@@ -32,34 +27,26 @@ Tell me your favorite framework you work with, but vanilla is more fun. If you f
 - Color
 
 6. ToDo app
-- https://todomvc.com/examples/react/#/
 - CRUD ToDos
 - localStorage
 
 7. Movie app
-- https://uidesigndaily.com/posts/photoshop-movie-app-mobile-day-193
-- https://developers.themoviedb.org/3
 - List of movies
 - Movie info
 - Favorite movie
 - Actors
 
 8. GitHub profile
-- https://uidesigndaily.com/posts/photoshop-profile-card-user-day-286
-- https://docs.github.com/en/rest/reference/repos
 - Search for users
 - Get and show data
 
 9. Password generator
-- https://codepen.io/FlorinPop17/full/BaBePej
 - Numbers
 - Letters
 - Symbols
 - Copy to clipboard
 
 10. Weather app
-- https://uidesigndaily.com/posts/photoshop-weather-prognosis-day-156
-- https://github.com/robertoduessmann/weather-api
 - Enter location
 - Get weather
 
